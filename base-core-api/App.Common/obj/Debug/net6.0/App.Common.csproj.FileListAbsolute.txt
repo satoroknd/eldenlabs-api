@@ -1,0 +1,24 @@
+C:\Workspace\algar-tech\base-core-api\base-core-api\App.Common\bin\Debug\net6.0\App.Common.deps.json
+C:\Workspace\algar-tech\base-core-api\base-core-api\App.Common\bin\Debug\net6.0\App.Common.dll
+C:\Workspace\algar-tech\base-core-api\base-core-api\App.Common\bin\Debug\net6.0\App.Common.pdb
+C:\Workspace\algar-tech\base-core-api\base-core-api\App.Common\obj\Debug\net6.0\App.Common.csproj.AssemblyReference.cache
+C:\Workspace\algar-tech\base-core-api\base-core-api\App.Common\obj\Debug\net6.0\App.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\algar-tech\base-core-api\base-core-api\App.Common\obj\Debug\net6.0\App.Common.AssemblyInfoInputs.cache
+C:\Workspace\algar-tech\base-core-api\base-core-api\App.Common\obj\Debug\net6.0\App.Common.AssemblyInfo.cs
+C:\Workspace\algar-tech\base-core-api\base-core-api\App.Common\obj\Debug\net6.0\App.Common.csproj.CoreCompileInputs.cache
+C:\Workspace\algar-tech\base-core-api\base-core-api\App.Common\obj\Debug\net6.0\App.Common.dll
+C:\Workspace\algar-tech\base-core-api\base-core-api\App.Common\obj\Debug\net6.0\refint\App.Common.dll
+C:\Workspace\algar-tech\base-core-api\base-core-api\App.Common\obj\Debug\net6.0\App.Common.pdb
+C:\Workspace\algar-tech\base-core-api\base-core-api\App.Common\obj\Debug\net6.0\ref\App.Common.dll
+D:\Prueba Tecnica\Celsia\Prueba tecnica Desarrollo\base-core-api\base-core-api\App.Common\bin\Debug\net6.0\App.Common.deps.json
+D:\Prueba Tecnica\Celsia\Prueba tecnica Desarrollo\base-core-api\base-core-api\App.Common\bin\Debug\net6.0\App.Common.dll
+D:\Prueba Tecnica\Celsia\Prueba tecnica Desarrollo\base-core-api\base-core-api\App.Common\bin\Debug\net6.0\App.Common.pdb
+D:\Prueba Tecnica\Celsia\Prueba tecnica Desarrollo\base-core-api\base-core-api\App.Common\obj\Debug\net6.0\App.Common.csproj.AssemblyReference.cache
+D:\Prueba Tecnica\Celsia\Prueba tecnica Desarrollo\base-core-api\base-core-api\App.Common\obj\Debug\net6.0\App.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Prueba Tecnica\Celsia\Prueba tecnica Desarrollo\base-core-api\base-core-api\App.Common\obj\Debug\net6.0\App.Common.AssemblyInfoInputs.cache
+D:\Prueba Tecnica\Celsia\Prueba tecnica Desarrollo\base-core-api\base-core-api\App.Common\obj\Debug\net6.0\App.Common.AssemblyInfo.cs
+D:\Prueba Tecnica\Celsia\Prueba tecnica Desarrollo\base-core-api\base-core-api\App.Common\obj\Debug\net6.0\App.Common.csproj.CoreCompileInputs.cache
+D:\Prueba Tecnica\Celsia\Prueba tecnica Desarrollo\base-core-api\base-core-api\App.Common\obj\Debug\net6.0\App.Common.dll
+D:\Prueba Tecnica\Celsia\Prueba tecnica Desarrollo\base-core-api\base-core-api\App.Common\obj\Debug\net6.0\refint\App.Common.dll
+D:\Prueba Tecnica\Celsia\Prueba tecnica Desarrollo\base-core-api\base-core-api\App.Common\obj\Debug\net6.0\App.Common.pdb
+D:\Prueba Tecnica\Celsia\Prueba tecnica Desarrollo\base-core-api\base-core-api\App.Common\obj\Debug\net6.0\ref\App.Common.dll
